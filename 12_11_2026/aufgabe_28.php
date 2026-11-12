@@ -3,7 +3,7 @@
 /**
  * @category Application
  * @package  Phpdev
- * @author   Alex Krizhanovskyi <alex.krizhanovskyi
+ * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>
  */
 
 printf("Das Einmaleins\n");

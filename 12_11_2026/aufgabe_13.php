@@ -15,17 +15,16 @@ $zahl_ok = sprintf(
     $zahl2,
     ($zahl1 / $zahl2)
 );
-
 $zahl_nicht_ok = sprintf(
     "%d ist nicht ohne Rest durch %d teilbar.\n",
     $zahl1,
     $zahl2,);
-
 $text = sprintf(
     "Die erste Zahl ist %d und die zweite Zahl ist %d. \n",
     $zahl1,
     $zahl2
 );
+
 echo $text;
 
 if ($resultat == 0) {
