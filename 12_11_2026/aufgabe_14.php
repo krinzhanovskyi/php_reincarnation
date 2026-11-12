@@ -2,7 +2,7 @@
 /**
  * @category Application
  * @package  Phpdev
- * @author   Alex Krizhanovskyi <alex.krizhanovskyi
+ * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>
  */
 
 $Alter1 = (int)readline("Alter 1: ");
