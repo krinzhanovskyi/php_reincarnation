@@ -1,5 +1,7 @@
 <?php
 /**
+ * Iterating over a list of colors and numbering the output
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

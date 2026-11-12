@@ -1,5 +1,7 @@
 <?php
 /**
+ * interactive arithmetic quiz covering addition, subtraction, multiplication, and division, with a score at the end.
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

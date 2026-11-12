@@ -1,5 +1,7 @@
 <?php
 /**
+ * Printing and adding the numbers from 1 to 20
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

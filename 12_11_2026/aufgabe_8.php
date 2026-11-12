@@ -1,5 +1,7 @@
 <?php
 /**
+ * Greeting by name with a `switch` statement
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

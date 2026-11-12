@@ -1,5 +1,7 @@
 <?php
 /**
+ * Checking a birth year against the current year
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

@@ -1,5 +1,7 @@
 <?php
 /**
+ * Counting from 1 to 100 with `for`
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

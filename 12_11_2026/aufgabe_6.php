@@ -1,5 +1,7 @@
 <?php
 /**
+ * Reading three grades and calculating their average
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

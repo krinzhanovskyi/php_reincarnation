@@ -1,5 +1,7 @@
 <?php
 /**
+ * Counting from 0 to 100 with `while` and a one-second delay
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

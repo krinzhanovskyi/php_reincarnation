@@ -1,5 +1,7 @@
 <?php
 /**
+ * Reading a name, place of residence, and birth year; formatted output
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

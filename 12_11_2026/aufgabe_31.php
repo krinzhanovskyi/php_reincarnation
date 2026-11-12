@@ -1,5 +1,7 @@
 <?php
 /**
+ * Collecting favorite foods until a blank input, then printing the list
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

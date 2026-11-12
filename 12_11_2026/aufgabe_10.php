@@ -1,5 +1,7 @@
 <?php
 /**
+ * Greeting by name and age, with different wording for adults and minors
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

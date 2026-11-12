@@ -1,5 +1,7 @@
 <?php
 /**
+ * Handling letter-based menu choices with `switch`
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

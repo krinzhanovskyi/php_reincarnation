@@ -1,5 +1,7 @@
 <?php
 /**
+ * Iterating over an array with `foreach`, with and without indexes
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

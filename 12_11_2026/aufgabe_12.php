@@ -1,5 +1,7 @@
 <?php
 /**
+ * Checking whether a number is even or odd
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * Adding the multiples of 3 from 1 to 30
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

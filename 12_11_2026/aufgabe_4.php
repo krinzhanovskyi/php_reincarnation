@@ -1,5 +1,7 @@
 <?php
 /**
+ * Calculating age from year of birth
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

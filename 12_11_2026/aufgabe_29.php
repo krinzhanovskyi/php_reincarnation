@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * Repeating a menu until the user chooses to exit
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

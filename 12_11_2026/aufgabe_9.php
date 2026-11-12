@@ -1,5 +1,7 @@
 <?php
 /**
+ * Checking whether someone is an adult
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

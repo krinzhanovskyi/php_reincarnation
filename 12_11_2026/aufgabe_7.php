@@ -1,5 +1,7 @@
 <?php
 /**
+ * Functions that read input and an `if/else` response
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

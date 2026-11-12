@@ -1,6 +1,8 @@
 <?php
 
 /**
+ * Printing the multiplication tables from 1 to 10 with nested loops
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

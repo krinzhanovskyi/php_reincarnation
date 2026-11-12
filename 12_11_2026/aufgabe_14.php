@@ -1,5 +1,7 @@
 <?php
 /**
+ * Adding three ages and comparing the sum with 100
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

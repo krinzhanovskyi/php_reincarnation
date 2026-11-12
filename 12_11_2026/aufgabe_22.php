@@ -1,5 +1,7 @@
 <?php
 /**
+ * Counting up to 100 with `while`, then back down with `do/while`
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

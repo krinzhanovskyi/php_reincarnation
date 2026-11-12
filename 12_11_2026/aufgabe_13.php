@@ -1,5 +1,7 @@
 <?php
 /**
+ * Checking whether one number is divisible by another
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

@@ -1,5 +1,7 @@
 <?php
 /**
+ * Adding the numbers from 1 to 100
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

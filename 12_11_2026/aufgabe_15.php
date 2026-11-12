@@ -1,5 +1,7 @@
 <?php
 /**
+ * Comparing the heights of two people
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

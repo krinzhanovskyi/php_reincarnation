@@ -1,5 +1,7 @@
 <?php
 /**
+ * Creating an array and accessing elements by index
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

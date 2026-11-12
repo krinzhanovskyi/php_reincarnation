@@ -1,5 +1,7 @@
 <?php
 /**
+ * Comparing age with a retirement-age threshold
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

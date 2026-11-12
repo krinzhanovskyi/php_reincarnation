@@ -1,5 +1,7 @@
 <?php
 /**
+ * String variables and basic output
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

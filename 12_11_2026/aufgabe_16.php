@@ -1,5 +1,7 @@
 <?php
 /**
+ * Selecting a module from a numbered menu with `switch`
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>

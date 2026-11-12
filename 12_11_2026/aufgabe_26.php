@@ -1,5 +1,7 @@
 <?php
 /**
+ * Repeatedly asking for a number above 100 and accumulating inputs
+ *
  * @category Application
  * @package  Phpdev
  * @author   Alex Krizhanovskyi <alex.krizhanovskyi@gmail.com>
