@@ -1,0 +1,119 @@
+{
+  "questions": [
+    {
+      "question": "What is Vivian Amstler's job at ZLI?",
+      "content": ["Administrator", "Coach", "Team Leader", "CEO"],
+      "correct": 0
+    },
+    {
+      "question": "How many coaches at ZLI work at BasisLehrJahr?",
+      "content": ["5", "3", "7", "4"],
+      "correct": 2
+    },
+    {
+      "question": "What does “ZLI” stand for?",
+      "content": [
+        "Ziemlich Lange Information",
+        "Zürcher Learning Institute",
+        "Zürcher Lernen Informatik",
+        "Zürcher Lehrbetriebsverband ICT"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "When must you dress in business casual?",
+      "content": [
+        "Always",
+        "I don't wear business casual",
+        "Every first Wednesday of the month",
+        "Every first workday of the month"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "Which programming language during this week we are learning?",
+      "content": ["PHP", "Swift", "Ruby", "Kotlin"],
+      "correct": 0
+    },
+    {
+      "question": "Which field you can at ZLI preparing to work in?",
+      "content": [
+        "Piloting",
+        "Application development",
+        "Car mechanics",
+        "Healthcare"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "In which year was ZLI founded?",
+      "content": ["1985", "1995", "2005", "2015"],
+      "correct": 1
+    },
+    {
+      "question": "Which operating system did we install on a virtual machine during our ÜKs?",
+      "content": [
+        "Fedora Workstation",
+        "Debian Desktop",
+        "Linux Mint",
+        "Ubuntu Server"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "What is an IPA in ICT vocational training?",
+      "content": [
+        "An individual practical assignment",
+        "An international programming award",
+        "An internet access point",
+        "An introductory programming app"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Which command-line language was used for this exercise?",
+      "content": ["PowerShell", "PHP", "Python", "JavaScript"],
+      "correct": 1
+    },
+    {
+      "question": "Which port was used on configure for OpenSSH Ubuntu Server?",
+      "content": ["22", "80", "8022", "443"],
+      "correct": 2
+    },
+    {
+      "question": "Which of these is a real ICT profession supported by ZLI?",
+      "content": [
+        "Professional computer scientist",
+        "Sniper",
+        "Clown",
+        "Media Specialist"
+      ],
+      "correct": 3
+    },
+    {
+      "question": "Who is Linus Torvalds?",
+      "content": [
+        "Third President of USA",
+        "Creator of the Linux kernel",
+        "Creator of the Github",
+        "Your Father"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "What does a web server do?",
+      "content": [
+        "Serves food to developers",
+        "Prints money",
+        "Delivers website content to users",
+        "Shows how to do Website"
+      ],
+      "correct": 2
+    },
+    {
+      "question": "How many original Harry Potter books are published?",
+      "content": ["9", "6", "7", "8"],
+      "correct": 2
+    }
+  ]
+}
