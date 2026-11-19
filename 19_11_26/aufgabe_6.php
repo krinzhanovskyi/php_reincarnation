@@ -20,6 +20,6 @@ $z2 = implode($zwischenzeichen, $t2);
 $formatiert = sprintf($format, $z1, $z2);
 
 echo "\nNach dem Trennen: \n";
-echo "String 1: \n",
-echo "String 2: \n";
+echo "String 1: $z\n";
+echo "String 2: $z\n";
 echo "Formatierte Strings: $formatiert \n";
